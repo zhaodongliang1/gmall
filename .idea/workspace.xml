@@ -2,13 +2,174 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="423c5984-88df-4b66-b6e7-a619250ce1c7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/gmall-api/gmall-api.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-common-util/gmall-common-util.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-parent/gmall-parent.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_yaml_2_8_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__de_ruedigermoeller_fst_2_57.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_jsonwebtoken_jjwt_0_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_buffer_4_1_34_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_4_1_34_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_dns_4_1_34_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_common_4_1_34_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_handler_4_1_34_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_resolver_4_1_34_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_resolver_dns_4_1_34_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_4_1_34_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_projectreactor_reactor_core_2_0_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxjava2_rxjava_2_2_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_cache_cache_api_1_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_47.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_9_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_nekohtml_nekohtml_1_9_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__nz_net_ultraq_thymeleaf_thymeleaf_layout_dialect_1_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ognl_ognl_3_0_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_activemq_activemq_broker_5_14_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_activemq_activemq_client_5_14_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_activemq_activemq_jms_pool_5_14_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_activemq_activemq_openwire_legacy_5_14_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_activemq_activemq_pool_5_14_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_activemq_activemq_pool_5_15_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_geronimo_specs_geronimo_j2ee_management_1_1_spec_1_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_geronimo_specs_geronimo_jms_1_1_spec_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_geronimo_specs_geronimo_jta_1_0_1B_spec_1_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_jdbc_8_5_40.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_juli_8_5_40.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_xmlgraphics_batik_ext_1_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_groovy_groovy_2_4_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_fusesource_hawtbuf_hawtbuf_1_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jodd_jodd_bean_5_0_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jodd_jodd_core_5_0_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_autoconfigure_1_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_starter_1_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_reactivestreams_reactive_streams_1_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_redisson_redisson_3_10_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_activemq_1_5_21_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_1_5_21_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_thymeleaf_1_5_21_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_4_3_24_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jms_4_3_24_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_messaging_4_3_24_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_4_3_24_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_2_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_spring4_2_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_unbescape_unbescape_1_1_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__redis_clients_jedis_2_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xerces_xercesImpl_2_10_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xml_apis_xml_apis_1_4_01.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java/HISTORY" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java/build.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java/fastdfs-client.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java/fdfs_client.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java/src/main/java/org/csource/common/Base64.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java/src/main/java/org/csource/common/IniFileReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java/src/main/java/org/csource/common/MyException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java/src/main/java/org/csource/common/NameValuePair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java/src/main/java/org/csource/fastdfs/ClientGlobal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java/src/main/java/org/csource/fastdfs/DownloadCallback.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java/src/main/java/org/csource/fastdfs/DownloadStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java/src/main/java/org/csource/fastdfs/FileInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java/src/main/java/org/csource/fastdfs/ProtoCommon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java/src/main/java/org/csource/fastdfs/ProtoStructDecoder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java/src/main/java/org/csource/fastdfs/ServerInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java/src/main/java/org/csource/fastdfs/StorageClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java/src/main/java/org/csource/fastdfs/StorageClient1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java/src/main/java/org/csource/fastdfs/StorageServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java/src/main/java/org/csource/fastdfs/StructBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java/src/main/java/org/csource/fastdfs/StructGroupStat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java/src/main/java/org/csource/fastdfs/StructStorageStat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java/src/main/java/org/csource/fastdfs/TrackerClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java/src/main/java/org/csource/fastdfs/TrackerGroup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java/src/main/java/org/csource/fastdfs/TrackerServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java/src/main/java/org/csource/fastdfs/UploadCallback.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java/src/main/java/org/csource/fastdfs/UploadStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java/src/main/resources/fastdfs-client.properties.sample" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java/src/main/resources/fdfs_client.conf.sample" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java/src/test/java/org/csource/common/IniFileReaderTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java/src/test/java/org/csource/fastdfs/ClientGlobalTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java/src/test/java/org/csource/fastdfs/DownloadFileWriter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java/src/test/java/org/csource/fastdfs/Monitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java/src/test/java/org/csource/fastdfs/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java/src/test/java/org/csource/fastdfs/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java/src/test/java/org/csource/fastdfs/TestAppender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java/src/test/java/org/csource/fastdfs/TestAppender1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java/src/test/java/org/csource/fastdfs/TestClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java/src/test/java/org/csource/fastdfs/TestClient1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java/src/test/java/org/csource/fastdfs/TestLoad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java/src/test/java/org/csource/fastdfs/UploadLocalFileSender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java/src/test/resources/fastdfs-client.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-client-java/src/test/resources/fdfs_client.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-api/src/main/java/com/atguigu/gmall/service/AttrService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-api/src/main/java/com/atguigu/gmall/service/CartService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-api/src/main/java/com/atguigu/gmall/service/CatalogService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-api/src/main/java/com/atguigu/gmall/service/OrderService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-api/src/main/java/com/atguigu/gmall/service/PaymentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-api/src/main/java/com/atguigu/gmall/service/SearchService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-api/src/main/java/com/atguigu/gmall/service/SkuService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-api/src/main/java/com/atguigu/gmall/service/SpuService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-api/src/main/java/com/atguigu/gmall/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-service/gmall-manage-service.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-service/src/main/java/com/atguigu/gmall/manage/mapper/PmsBaseAttrInfoMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-service/src/main/java/com/atguigu/gmall/manage/mapper/PmsBaseAttrValueMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-service/src/main/java/com/atguigu/gmall/manage/mapper/PmsBaseCatalog1Mapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-service/src/main/java/com/atguigu/gmall/manage/mapper/PmsBaseCatalog2Mapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-service/src/main/java/com/atguigu/gmall/manage/mapper/PmsBaseCatalog3Mapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-service/src/main/java/com/atguigu/gmall/manage/mapper/PmsBaseSaleAttrMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-service/src/main/java/com/atguigu/gmall/manage/mapper/PmsProductImageMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-service/src/main/java/com/atguigu/gmall/manage/mapper/PmsProductInfoMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-service/src/main/java/com/atguigu/gmall/manage/mapper/PmsProductSaleAttrMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-service/src/main/java/com/atguigu/gmall/manage/mapper/PmsProductSaleAttrValueMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-service/src/main/java/com/atguigu/gmall/manage/mapper/PmsSkuAttrValueMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-service/src/main/java/com/atguigu/gmall/manage/mapper/PmsSkuImageMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-service/src/main/java/com/atguigu/gmall/manage/mapper/PmsSkuInfoMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-service/src/main/java/com/atguigu/gmall/manage/mapper/PmsSkuSaleAttrValueMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-service/src/main/java/com/atguigu/gmall/manage/service/impl/AttrServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-service/src/main/java/com/atguigu/gmall/manage/service/impl/CatalogServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-service/src/main/java/com/atguigu/gmall/manage/service/impl/SkuServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-service/src/main/java/com/atguigu/gmall/manage/service/impl/SpuServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-service/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-service/src/main/resources/mapper/PmsBaseAttrInfoMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-service/src/main/resources/mapper/PmsProductSaleAttrMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-service/src/main/resources/mapper/PmsSkuInfoMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/gmall-manage-web.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-service-util/gmall-service-util.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-service-util/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-service-util/src/main/java/com/atguigu/gmall/conf/RedisConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-service-util/src/main/java/com/atguigu/gmall/mq/ActiveMQConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-service-util/src/main/java/com/atguigu/gmall/mq/ActiveMQUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-service-util/src/main/java/com/atguigu/gmall/util/GmallRedissonConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-service-util/src/main/java/com/atguigu/gmall/util/RedisUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-web-util/gmall-web-util.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-web-util/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-web-util/src/main/java/com/atguigu/gmall/annotations/LoginRequired.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-web-util/src/main/java/com/atguigu/gmall/config/WebMvcConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-web-util/src/main/java/com/atguigu/gmall/interceptors/AuthInterceptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-web-util/src/main/java/com/atguigu/gmall/util/CookieUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-web-util/src/main/java/com/atguigu/gmall/util/JwtUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-web-util/src/main/java/com/atguigu/gmall/util/TestJwt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-api/gmall-api.iml" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-api/gmall-api.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-api/src/main/java/com/atguigu/gmall/bean/OmsCartItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-api/src/main/java/com/atguigu/gmall/bean/OmsCartItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-common-util/gmall-common-util.iml" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-common-util/gmall-common-util.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-common-util/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-common-util/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-parent/gmall-parent.iml" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-parent/gmall-parent.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-parent/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-parent/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/gmall-parent/target/" />
     <ignored path="$PROJECT_DIR$/gmall-common-util/target/" />
     <ignored path="$PROJECT_DIR$/gmall-api/target/" />
+    <ignored path="$PROJECT_DIR$/gmall-manage-service/target/" />
+    <ignored path="$PROJECT_DIR$/gmall-manage-web/target/" />
+    <ignored path="$PROJECT_DIR$/gmall-service-util/target/" />
+    <ignored path="$PROJECT_DIR$/gmall-web-util/target/" />
+    <ignored path="$PROJECT_DIR$/fastdfs-client-java/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,50 +187,19 @@
     <option name="HIDDEN_KINDS">
       <set />
     </option>
-    <expand>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="gmall@localhost" type="feb32156:DbDataSourceImpl" />
-      </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="gmall@localhost" type="feb32156:DbDataSourceImpl" />
-        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
-      </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="gmall@localhost" type="feb32156:DbDataSourceImpl" />
-        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
-        <item name="gmall: schema" type="76f4a085:MysqlImplModel$Schema" />
-      </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="gmall@localhost" type="feb32156:DbDataSourceImpl" />
-        <item name="collations" type="d4e8921:DatabaseStructure$FamilyGroup" />
-      </path>
-    </expand>
+    <expand />
     <select />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gmall-api/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="24" selection-start-line="24" selection-end-line="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/gmall-api/src/main/java/com/atguigu/gmall/bean/PmsBaseSaleAttr.java">
+        <entry file="file://$PROJECT_DIR$/gmall-manage-service/src/main/resources/application.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+            <state relative-caret-position="95">
+              <caret line="5" column="55" lean-forward="true" selection-start-line="5" selection-start-column="55" selection-end-line="5" selection-end-column="55" />
             </state>
           </provider>
         </entry>
@@ -94,14 +224,25 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/gmall-parent/pom.xml" />
         <option value="$APPLICATION_CONFIG_DIR$/consoles/db/abe2860c-6b50-41f0-8a23-728356937d22/console.sql" />
         <option value="$APPLICATION_CONFIG_DIR$/consoles/db/887a63a4-4560-461d-b27a-9a68008914d3/console.sql" />
         <option value="$APPLICATION_CONFIG_DIR$/consoles/db/a17991ea-788f-4639-9b26-3c28289af544/console.sql" />
-        <option value="$PROJECT_DIR$/gmall-common-util/pom.xml" />
         <option value="$PROJECT_DIR$/gmall-common-util/src/main/java/HttpclientUtil.java" />
         <option value="$PROJECT_DIR$/gmall-common-util/src/main/java/com/atguigu/gmall/util/HttpclientUtil.java" />
         <option value="$PROJECT_DIR$/gmall-api/pom.xml" />
+        <option value="$PROJECT_DIR$/gmall-api/src/main/java/com/atguigu/gmall/bean/OmsCartItem.java" />
+        <option value="$PROJECT_DIR$/gmall-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/gmall-manage-service/pom.xml" />
+        <option value="$PROJECT_DIR$/gmall-service-util/pom.xml" />
+        <option value="$PROJECT_DIR$/gmall-common-util/pom.xml" />
+        <option value="$PROJECT_DIR$/gmall-web-util/pom.xml" />
+        <option value="$PROJECT_DIR$/gmall-manage-web/pom.xml" />
+        <option value="$PROJECT_DIR$/fastdfs-client-java/src/main/java/org/csource/common/Base64.java" />
+        <option value="$PROJECT_DIR$/gmall-manage-web/src/main/java/com/atguigu/gmall/util/HttpclientUtil.java" />
+        <option value="$PROJECT_DIR$/gmall-manage-service/src/main/resources/a.properties.properties" />
+        <option value="$PROJECT_DIR$/gmall-service-util/src/main/java/mq/ActiveMQConfig.java" />
+        <option value="$PROJECT_DIR$/gmall-service-util/src/main/java/com/atguigu/gmall/conf/RedisConfig.java" />
+        <option value="$PROJECT_DIR$/gmall-manage-service/src/main/resources/application.properties" />
       </list>
     </option>
   </component>
@@ -120,17 +261,17 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-9" />
-    <option name="y" value="-9" />
-    <option name="width" value="978" />
-    <option name="height" value="1048" />
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="980" />
+    <option name="height" value="1050" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
+      <flattenPackages ProjectPane="false" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -139,10 +280,37 @@
               <item name="gmall" type="b2602c69:ProjectViewProjectNode" />
               <item name="gmall" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="gmall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gmall" type="462c0819:PsiDirectoryNode" />
+              <item name="gmall-manage-service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gmall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gmall" type="462c0819:PsiDirectoryNode" />
+              <item name="gmall-manage-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gmall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gmall" type="462c0819:PsiDirectoryNode" />
+              <item name="gmall-manage-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gmall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gmall" type="462c0819:PsiDirectoryNode" />
+              <item name="gmall-manage-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -154,14 +322,22 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="database.console.LAST_STATE" value="false" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8 (2)" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/gmall-api/src/main/java/com/atguigu/gmall/bean" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/gmall-api/src/main/java/com/atguigu/gmall/service" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\idea\ideaWorkSpace\gmall\gmall-api\src\main\java\com\atguigu\gmall\bean" />
+      <recent name="E:\idea\ideaWorkSpace\gmall\gmall-api\src\main\java\com\atguigu\gmall\service" />
+      <recent name="E:\idea\ideaWorkSpace\gmall\gmall-web-util\src\main\java\com\atguigu\gmall" />
+      <recent name="E:\idea\ideaWorkSpace\gmall\gmall-service-util\src\main\java\com\atguigu\gmall\util" />
+      <recent name="E:\idea\ideaWorkSpace\gmall\gmall-service-util\src\main\java\mq" />
+      <recent name="E:\idea\ideaWorkSpace\gmall\gmall-service-util\src\main\java\com\atguigu\gmall\conf" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -187,6 +363,8 @@
       <option name="presentableId" value="Default" />
       <updated>1591020527351</updated>
       <workItem from="1591020552032" duration="9197000" />
+      <workItem from="1591111415367" duration="36000" />
+      <workItem from="1594648320910" duration="11129000" />
     </task>
     <task id="LOCAL-00001" summary="父工程，api,通用工具类">
       <created>1591109448733</created>
@@ -206,28 +384,20 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9197000" />
+    <option name="totallyTimeSpent" value="21041000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Designer" />
-      <window_info id="Image Layers" />
-      <window_info id="Capture Tool" />
-      <window_info id="UI Designer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Web" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15616623" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24664879" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Database Console" weight="0.04398827" />
-      <window_info anchor="bottom" id="Spring" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" />
-      <window_info anchor="bottom" id="Java Enterprise" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" visible="true" weight="0.32991204" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Web" order="6" side_tool="true" />
+      <window_info id="Image Layers" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -235,17 +405,26 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="aiXcoder" />
-      <window_info anchor="right" id="Database" visible="true" weight="0.02010724" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Bean Validation" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Database Console" order="8" weight="0.04398827" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.329429" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="13" weight="0.32991204" />
+      <window_info anchor="bottom" id="Docker" order="14" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="15" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" visible="true" weight="0.02010724" />
+      <window_info anchor="right" id="aiXcoder" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="Bean Validation" order="10" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -253,16 +432,10 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="父工程，api,通用工具类" />
-    <option name="LAST_COMMIT_MESSAGE" value="父工程，api,通用工具类" />
+    <MESSAGE value="Merge branch 'dev'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'dev'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/gmall-parent/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/abe2860c-6b50-41f0-8a23-728356937d22/console.sql">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -276,13 +449,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gmall-common-util/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1273">
-          <caret line="67" selection-start-line="67" selection-end-line="67" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/gmall-common-util/src/main/java/com/atguigu/gmall/util/HttpclientUtil.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1349">
@@ -293,17 +459,162 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gmall-api/pom.xml">
+    <entry file="file://$PROJECT_DIR$/gmall-api/src/main/java/com/atguigu/gmall/bean/PmsBaseSaleAttr.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="456">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
+          <caret line="34" column="1" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gmall-api/src/main/java/com/atguigu/gmall/bean/PmsBaseSaleAttr.java">
+    <entry file="file://$PROJECT_DIR$/gmall-api/src/main/java/com/atguigu/gmall/bean/OmsCartItem.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+        <state relative-caret-position="171">
+          <caret line="13" column="29" lean-forward="true" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-manage-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" column="43" selection-start-line="23" selection-start-column="43" selection-end-line="23" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/maven/apache-maven-3.6.1/conf/settings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2793" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-common-util/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-api/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="25" lean-forward="true" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-web-util/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1064">
+          <caret line="56" column="19" selection-start-line="56" selection-start-column="19" selection-end-line="56" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fastdfs-client-java/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fastdfs-client-java/fastdfs-client.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fastdfs-client-java/src/main/java/org/csource/common/Base64.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="28" lean-forward="true" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-manage-web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-parent/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="23" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-service-util/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" column="21" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-manage-web/src/main/java/com/atguigu/gmall/util/HttpclientUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-manage-service/src/main/resources/a.properties.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="28" column="23" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-manage-service/src/main/java/com/atguigu/gmall/manage/mapper/PmsBaseAttrInfoMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="9" column="72" lean-forward="true" selection-start-line="9" selection-start-column="72" selection-end-line="9" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-manage-service/src/main/java/com/atguigu/gmall/manage/mapper/PmsProductSaleAttrValueMapper.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-manage-service/src/main/resources/mapper/PmsSkuInfoMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="28" lean-forward="true" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-service-util/src/main/java/com/atguigu/gmall/util.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-service-util/src/main/java/com/atguigu/gmall/mq/ActiveMQConfig.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-service-util/src/main/java/com/atguigu/gmall/util/GmallRedissonConfig.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-service-util/src/main/java/com/atguigu/gmall/conf/RedisConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="19" column="24" lean-forward="true" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-web-util/src/main/java/com/atguigu/gmall/annotations/LoginRequired.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-api/src/main/java/com/atguigu/gmall/service/AttrService.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-manage-service/src/main/java/com/atguigu/gmall/manage/service/impl/AttrServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="20" column="51" selection-start-line="20" selection-start-column="51" selection-end-line="20" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-manage-service/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="55" lean-forward="true" selection-start-line="5" selection-start-column="55" selection-end-line="5" selection-end-column="55" />
         </state>
       </provider>
     </entry>
@@ -312,7 +623,7 @@
     <states>
       <state key="ProjectJDKs.UI">
         <settings>
-          <last-edited>1.8</last-edited>
+          <last-edited>1.8 (2)</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

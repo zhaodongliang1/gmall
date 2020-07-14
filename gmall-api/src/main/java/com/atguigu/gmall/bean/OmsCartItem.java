@@ -10,6 +10,7 @@ public class OmsCartItem implements Serializable{
 
     @Id
     private String id;
+
     private String productId;
     private String productSkuId;
     private String memberId;
